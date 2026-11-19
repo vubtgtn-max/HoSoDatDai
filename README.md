@@ -28,3 +28,12 @@ Tab **7 · Tệp & trích xuất**: đính kèm PDF/ảnh vào hồ sơ (lưu tr
 ## v1.3
 - **OCR tiếng Việt** (Tesseract.js, tải từ jsDelivr lần đầu) cho PDF/ảnh scan không có mã QR; đọc thêm tờ/thửa/diện tích từ giấy tờ đất.
 - **🔁 Thửa khác / dùng lại**: tạo hồ sơ mới cho thửa khác của cùng chủ (mang sang họ tên, CCCD, địa chỉ) hoặc thêm thửa vào hồ sơ hiện tại. **👥 Lấy người từ hồ sơ khác** để dùng lại người đã nhập.
+
+## v1.4 – Giao diện thanh bên trái
+Các nút chia nhóm ở cột bên trái (Hồ sơ · Thửa và người · Biểu mẫu · Dữ liệu · Khác); phía trên nội dung là ô chọn hồ sơ, ô tìm kiếm và trạng thái sao lưu. Màn hình hẹp tự chuyển thành thanh nút nằm ngang.
+
+## v1.5
+Nội dung các tab dùng hết chiều ngang màn hình; nút ◀/▶ thu gọn cột nút thành dải biểu tượng (nhớ lựa chọn); tab 2–5 có bảng **Tóm tắt hồ sơ** cố định bên phải (chọn người, thửa đất, thông tin còn thiếu, các nút xuất biểu mẫu).
+
+## v1.5.1
+Bảng Tóm tắt hẹp hơn (272px) và có nút ▶ Thu gọn / ◀ mở lại (nhớ lựa chọn); khi thu gọn, vùng nhập dữ liệu chiếm gần hết chiều ngang.
